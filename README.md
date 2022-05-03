@@ -1,2 +1,4 @@
-### $ cd visitsweb/
-### $ docker-compose up --build
+### $ $ cd simplewebapp/
+### $ docker build -t simplewebapp/simpleweb .
+### $ docker run -p 8080:8080 simplewebapp/simpleweb
+
